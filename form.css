@@ -1,0 +1,10 @@
+body{
+    background-color: blueviolet;
+}
+.container{
+    font-style: italic;
+    background-color: black;
+    width: 60%;
+    align-items: center;
+    margin: 40px;
+}
